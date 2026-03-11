@@ -41,7 +41,3 @@ Weekly adjusted closing price data was sourced from Yahoo Finance covering March
 
 ### Skills Demonstrated
 Conducted a portfolio and investment analysis of two publicly traded companies — LVMH Moet Hennessy (MC.PA) and Tapestry, Inc. (TPR) — using weekly adjusted closing price data sourced from Yahoo Finance (53 observations, March 2025–March 2026). Built a structured Excel model covering raw data preparation, weekly return calculations, risk metrics, and data visualization. Applied quantitative methods including standard deviation, variance, Sharpe Ratio, and Pearson correlation to assess diversification benefits of a 50/50 equally-weighted portfolio. Results interpreted in the context of Modern Portfolio Theory (Markowitz). Demonstrated proficiency in Excel financial modelling, data sourcing, and professional analytical communication.
-
----
-
-*Course: Quantitative and Digital Skills | Student: Tileubegen Nazerke*
