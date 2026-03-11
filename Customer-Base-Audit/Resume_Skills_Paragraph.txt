@@ -1,0 +1,12 @@
+QUANTITATIVE SKILLS – Customer Base Audit (Price Distribution Analysis)
+
+Conducted a customer base audit using Microsoft Excel to analyze a dataset of 41 transactions. 
+Applied frequency distribution techniques to classify price data into six equal-width intervals, 
+computing relative and cumulative frequencies. Constructed a histogram to identify distribution 
+shape and dominant customer segments. Interpreted a positively skewed price distribution and 
+formulated evidence-based managerial recommendations, including targeted upselling strategies 
+for the $200–$299 core segment. Demonstrated proficiency in Excel data organization, COUNTIF 
+formulas, PivotTable summarization, and chart creation using the Analysis ToolPak.
+
+Skills demonstrated: data cleaning, frequency tabulation, histogram construction, 
+descriptive statistics, business insight communication, Microsoft Excel.
