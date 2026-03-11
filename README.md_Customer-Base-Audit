@@ -1,0 +1,47 @@
+# Quantitative and Digital Skills Portfolio – Tileubegen Nazerke
+
+This repository contains analytical projects completed as part of the Quantitative and Digital Skills course. Each project folder contains an Excel analytical file, a one-page PDF synopsis, and supporting documentation.
+
+---
+
+## Project 2 — Customer Base Audit
+
+**Folder:** `Customer-Base-Audit`
+
+### Overview
+
+Price distribution analysis of 41 customer transactions, ranging from $135 to $628. The dataset was organized into a frequency distribution to identify dominant price segments and formulate evidence-based managerial recommendations.
+
+### Methods Applied
+
+- Data cleaning and preparation in Microsoft Excel
+- Frequency distribution construction using equal-width intervals ($100 width)
+- Relative frequency and cumulative frequency calculations using COUNTIF formulas
+- Histogram construction to visualize distribution shape
+- Interpretation of distribution skewness and customer segmentation
+
+### Key Results
+
+| Price Range | Frequency | Relative Frequency | Cumulative % |
+|-------------|-----------|-------------------|--------------|
+| $100 – $199 | 8         | 19.51%            | 19.51%       |
+| $200 – $299 | 15        | 36.59%            | 56.10%       |
+| $300 – $399 | 9         | 21.95%            | 78.05%       |
+| $400 – $499 | 5         | 12.20%            | 90.24%       |
+| $500 – $599 | 3         | 7.32%             | 97.56%       |
+| $600 – $700 | 1         | 2.44%             | 100.00%      |
+| **Total**   | **41**    | **100.00%**       |              |
+
+The distribution is **positively skewed**. The $200–$299 segment is the dominant price bracket, accounting for 36.6% of all transactions. The lower two segments ($100–$299) together represent 56.1% of the customer base.
+
+### Files
+
+| File | Description |
+|------|-------------|
+| `Customer_Base_Audit.xlsx` | Excel model: raw data, frequency distribution, histogram |
+| `Customer_Base_Audit_Synopsis.pdf` | One-page analytical synopsis with textbook references |
+| `Resume_Skills_Paragraph.txt` | Resume skills paragraph |
+
+### Skills Demonstrated
+
+Conducted a customer base audit using Microsoft Excel to analyze a dataset of 41 transactions. Applied frequency distribution techniques to classify price data into six equal-width intervals, computing relative and cumulative frequencies. Constructed a histogram to identify distribution shape and dominant customer segments. Interpreted a positively skewed price distribution and formulated evidence-based managerial recommendations, including targeted upselling strategies for the $200–$299 core segment. Demonstrated proficiency in Excel data organization, COUNTIF formulas, and chart creation using the Analysis ToolPak.
